@@ -1,0 +1,32 @@
+img {
+    width: 150px;
+    height: 200px;
+    
+}
+
+header {
+    background-color: lightgreen;
+    border-radius: 10px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+main {
+    background-color: lightblue;
+    border-radius: 10px;
+
+}
+
+footer {
+    text-align: center;
+}
+
+footer ul{
+    list-style-type: none;
+    list-style-position: outside;
+    
+}
+
